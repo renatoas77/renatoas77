@@ -1,10 +1,9 @@
-![MasterHead](https://www.trio.dev/hubfs/C%23%20folder-1.jpg)
 <h1 align="center">Olá 👋, Meu nome é Renato</h1>
 <h3 align="center">Programador .NET Junior</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY0NTFlN2U4ZGMwNWZmYzFmYjRhYzk1ZTcwM2ZmMjU2ZWUyYjViMCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🌱 Atualmente estou aprendendo **.NET e APIs**
+- 🌱 Atualmente estou fazendo games na Godot
 
 - 📫 Entre em contato comigo em: **renato.antonio7@hotmail.com**
 
